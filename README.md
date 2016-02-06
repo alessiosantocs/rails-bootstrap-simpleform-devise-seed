@@ -21,3 +21,8 @@ Plus:
 - rails generate rolify Role <MODEL>
 - Go to application_controller.rb to make some quick changes
 - rake db:migrate
+
+## Contribute
+What do you thin should be there in this seed project? Open an issue with tag 'Feature request'.
+
+Feel free to contribute forking this repo and submitting pull requests
