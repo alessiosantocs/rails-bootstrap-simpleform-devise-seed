@@ -20,3 +20,4 @@ Plus:
 - rails generate devise <MODEL>
 - rails generate rolify Role <MODEL>
 - Go to application_controller.rb to make some quick changes
+- rake db:migrate

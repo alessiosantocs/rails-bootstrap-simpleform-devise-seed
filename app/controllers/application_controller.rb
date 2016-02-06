@@ -15,4 +15,10 @@ class ApplicationController < ActionController::Base
   # end
 
   # alias_method :current_user, :current_<MODEL> # Could be :current_member or :logged_in_user
+
+
+
+  def home
+    # Just a home for your project
+  end
 end
