@@ -10,7 +10,7 @@ class ApplicationController < ActionController::Base
   enable_authorization
 
   # Handle unauthorized exceptions
-  # rescue_from CanCan::AccessDenied do |exception|
+  # rescue_from CanCan::Unauthorized do |exception|
   #   redirect_to root_url, :alert => exception.message
   # end
 

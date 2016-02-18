@@ -17,8 +17,8 @@ Plus:
 - Clone this repo
 - With atom or sublime find and replace this "RailsBootstrapSimpleformDeviseSeed" with a proper name for your project
 - bundle install
-- rails generate devise <MODEL>
-- rails generate rolify Role <MODEL>
+- rails generate devise [MODEL]
+- rails generate rolify Role [MODEL]
 - Go to application_controller.rb to make some quick changes
 - rake db:migrate
 
